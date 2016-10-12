@@ -1,20 +1,20 @@
 id,name,longitude,latitude
-1,UC Berkeley,-122.250502,37.872855
-2,UC Los Angeles,-118.445227,34.06886
+1,University of California at Berkeley,-122.250502,37.872855
+2,University of California Los Angeles,-118.445227,34.06886
 3,"Cal State, Los Angeles",-118.168266,34.068232
 4,University of Southern California,-118.2866414,34.021801
 5,Southern California Institute of Architecture,-118.2328067,34.0431787
 6,UC Davis,-121.761455,38.53844
-7,UC Irvine,-117.844255,33.640205
+7,University of California at Irvine,-117.844255,33.640205
 8,UC Riverside,-117.328289,33.973385
-9,UC San Diego,-117.241858,32.880461
+9,University of California at San Diego,-117.241858,32.880461
 11,"Cal State, San Diego State University",-117.0722245,32.7753498
 12,UC San Francisco,-122.457896,37.762954
 13,San Francisco State University,-122.4787907,37.7234985
 14,UC Santa Barbara,-119.848782,34.414013
 15,UC Santa Cruz,-122.06081,36.991403
-16,"University of Wisconsin, Madison",-89.412383,43.076611
-17,"University of Wisconsin, Milwaukee",-87.881745,43.078104
+16,University of Wisconsin-Madison,-89.412383,43.076611
+17,University of Wisconsin-Milwaukee,-87.881745,43.078104
 18,"University of Wisconsin, La Crosse",-91.229661,43.813318
 19,"University of Wisconsin, River Falls",-92.6224192,44.8533007
 20,Duke University,-78.9400087,36.0015321
@@ -28,7 +28,7 @@ id,name,longitude,latitude
 28,Washington State University,-117.1582262,46.7309969
 29,"George Washington University, Foggy Bottom Campus",-77.0498011,38.8997896
 30,Western Washington University,-122.4840582,48.7370526
-32,"Texas A&M, College Station",-96.341701,30.615459
+32,Texas A&M; University,-96.341701,30.615459
 33,Southwestern Texas State,-97.943355,29.889081
 34,"University of Texas Medical Branch, Galveston",-94.775258,29.310988
 35,"University of Texas, Dallas",-96.746171,32.98426
@@ -41,10 +41,13 @@ id,name,longitude,latitude
 43,"University of Texas Southwestern Medical School, Dallas",-96.846292,32.81606
 44,Virginia Tech Hampton Roads Center,-76.1797924,36.8920376
 45,University of Toronto,-79.395751,43.663588
+45,U. of Toronto,-79.395751,43.663588
 46,"York University, Canada",-79.501623,43.77348
 47,"University of Texas, Pan-American",-98.175889,26.305221
 48,East Texas State University,-95.907234,33.242542
-49,"University of Texas, Austin",-97.73374,30.28636
+49,University of Texas at Austin,-97.73374,30.28636
+49,The University of Texas at Austin,-97.73374,30.28636
+49,University of Texas,-97.73374,30.28636
 50,North Texas State University,-97.152745,33.207499
 51,"Texas A&M, Galveston",-94.818385,29.315529
 52,"Texas A&M, International University",-99.434899,27.569708
@@ -52,7 +55,7 @@ id,name,longitude,latitude
 54,Texas Christian University,-97.3616841,32.7092983
 55,West Texas State University,-101.915728,34.981434
 56,Vanderbilt University,-86.8030548,36.1481129
-57,"University of Virginia, Charlottesville",-78.507939,38.033553
+57,University of Virginia,-78.507939,38.033553
 58,West Virgnia University,-79.955992,39.636142
 59,West Virgnia School of Osteopathic Medicine,-80.437542,37.804342
 60,Virginia Commonwealth University,-77.430826,37.54066
@@ -76,7 +79,7 @@ id,name,longitude,latitude
 79,"CUNY, Queens College",-73.82024,40.736222
 82,SUNY Albany,-73.822831,42.68673
 83,SUNY Binghamton,-75.966963,42.088828
-84,SUNY Buffalo,-78.788962,43.000808
+84,SUNY- Buffalo,-78.788962,43.000808
 85,Syracuse University,-77.0506,38.9238
 87,SUNY Upstate Medical University,-76.141271,43.043016
 88,SUNY College of Environmental Science and Forestry,-76.136931,43.034464
@@ -87,7 +90,7 @@ id,name,longitude,latitude
 94,"CUNY, Graduate Center",-73.984171,40.748702
 96,University of Rochester,-77.626003,43.130569
 99,Union University,-88.8095023,35.6167391
-100,"University of North Carolina, Chapel Hill",-79.04691,35.904907
+100,University of North Carolina,-79.04691,35.904907
 101,"University of North Carolina, Asheville",-82.566186,35.616246
 102,"University of North Carolina, Greensboro",-79.810055,36.069477
 103,North Carolina A&T State University,-79.7764193,36.0737465
@@ -95,7 +98,7 @@ id,name,longitude,latitude
 105,"University of North Carolina, Raleigh",-78.6821,35.784656
 106,North Carolina Central University,-78.8994523,35.9745889
 107,North Carolina School for the Arts,-80.23702,36.076278
-108,"University of Michigan, Ann Arbor",-83.738228,42.278043
+108,University of Michigan,-83.738228,42.278043
 109,Michigan State University,-84.4785873,42.7308681
 110,Michigan Technological Institute,-83.238522,42.469074
 111,Central Michigan University,-84.7750142,43.5914187
@@ -105,6 +108,8 @@ id,name,longitude,latitude
 115,Wayne State University,-83.0685329,42.3561488
 116,University of Notre Dame,-86.235316,41.705218
 117,"University of Illinois, Urbana-Champaign",-88.227151,40.101944
+117,University of Illinois,-88.227151,40.101944
+117,University of Illinois at Champaign-Urbana,-88.227151,40.101944
 118,Illinois State University,-88.9975759,40.5125359
 120,"University of Illinois, Chicago",-87.66774,41.868666
 121,Art Institute of Chicago,-87.6222743,41.8794774
@@ -119,15 +124,15 @@ id,name,longitude,latitude
 132,Northern Illinois University,-88.7759213,41.9375291
 133,Northeastern Illinois University,-87.7181139,41.9814205
 134,Western Illinois University,-90.6837417,40.4642075
-135,"University of Nebraska, Lincoln",-96.700486,40.820195
+135,University of Nebraska at Lincoln,-96.700486,40.820195
 136,"University of Nebraska, Omaha",-96.005013,41.259473
 137,"University of Nebraska, Kearney",-99.094926,40.700579
 138,University of Nebraska Medical Center,-95.9766821,41.2549987
-139,"University of South Carolina, Columbia",-81.027433,33.996097
+139,University of South Carolina,-81.027433,33.996097
 140,Medical University of South Carolina,-79.952,32.7836
 142,South Carolina State University,-80.852,33.4973
 143,University of Pittsburgh,-79.9592186,40.4428469
-144,University of Pennsylvania Club,-73.9819444,40.755
+144,University of Pennsylvania,-73.9819444,40.755
 145,Pennsylvania State University,-77.8572236,40.8039505
 146,"University of Oregon, Eugene",-123.072598,44.044819
 147,Oregon Health and Sciences University,-122.685711,45.499002
@@ -155,7 +160,8 @@ id,name,longitude,latitude
 169,Auburn University,-85.4849492,32.602079
 170,University of South Alabama,-88.1797251,30.6949121
 171,University of Montevallo,-86.8647113,33.1042856
-172,"Ohio State University, Columbus",-83.031054,40.013803
+172,The Ohio State University,-83.031054,40.013803
+172,Ohio State University,-83.031054,40.013803
 173,Northeastern Ohio College of Medicine,-81.244179,41.102703
 174,"Miami University, Ohio",-84.730887,39.510522
 175,University of Miami,-80.278176,25.717934
@@ -166,9 +172,9 @@ id,name,longitude,latitude
 180,University of Toledo,-83.617711,41.617383
 181,Princeton University,-74.6568153,40.3428452
 182,Princeton Theological Seminary,-74.6684589,40.3454106
-184,"Indiana University - Purdue University, Indianapolis (IUPUI)",-86.175884,39.774765
+184,Indiana University,-86.175884,39.774765
 185,Purdue University,-86.9225102,40.4280908
-186,"University of Minnesota, Twin Cities",-93.22772,44.973984
+186,University of Minnesota Twin Cities,-93.22772,44.973984
 188,"University of Minnesota, Duluth",-92.0760221,46.8124389
 189,"Minnesota State University, Mankato",-93.997761,44.147305
 190,Winona State University,-91.6418152,44.047463
@@ -223,6 +229,7 @@ id,name,longitude,latitude
 243,Southeastern Louisiana University,-90.4712,30.5151913
 244,Johns Hopkins University,-77.0465183,38.8968729
 245,Cornell University,-87.6325525,41.8803107
+245,Cornell,-87.6325525,41.8803107
 246,Columbia University,-73.9612492,40.8089897
 247,Caltech Peak,-118.3906508,36.6888244
 248,"Cal State, Fresno",-119.749649,36.811701
@@ -236,7 +243,7 @@ id,name,longitude,latitude
 257,"California Polytechnic University, San Luis Obispo",-120.662483,35.305004
 259,California College of Arts,-122.250538,37.836045
 260,California Institute of the Arts,-118.5667532,34.3933306
-261,Carnegie Mellon University,-79.9428294,40.4411801
+261,Carnegie-Mellon University,-79.9428294,40.4411801
 262,Brown University,-71.3975559,41.8262113
 263,McGill University,-73.577159,45.504775
 265,University of New Mexico,-106.6191915,35.0839355
@@ -339,9 +346,28 @@ id,name,longitude,latitude
 374,Kansas University,38.9543,95.2558
 375,Seattle Pacific University,47.6495,-122.3613
 376,Portland State University,-122.6846,45.5119
-377,DePaul University,,
-378,Sherbrooke University-Canada,,
-379,University of St Andrews,,
+377,DePaul University,41.8777,87.6272
+378,Sherbrooke University-Canada,-71.888351,-71.888351
+379,University of St Andrews,56.3417,2.7928
 380,INSEAD,48.4057,2.6863
 381,St Olaf College,93.185098,44.462557
 382,Rose-Hulman Institute of Technology,39.483055,-87.323415
+383,University of Alberta,-113.5263,53.5232
+384,University of Hannover,9.7197,52.383
+385,"Hebrew University, Jerusalem",35.2414,31.7946
+386,University of Bristol,-2.603,51.4584
+387,London University,-0.1311,51.5261
+388,Cambridge University,0.1149,52.2043
+389,University of Ife,4.527,7.5175
+390,University of Oxford,-1.2547,51.7566
+390,Oxford University,-1.2547,51.7566
+391,University of Exeter,-3.5351,50.7371
+392,Freie Universitaet Berlin,13.2897,52.4525
+393,University of Haifa,35.0195,32.7614
+394,European University Institute,43.8031,11.283
+395,Academy of Municipal Economy,32.039205,54.767404
+397,University of Minnesota,44.974,93.2277
+398,"University of Essen, Germany",51.4277,6.801
+399,University of Freiburg,47.9935,7.8459
+400,University College London,51.5246,0.134
+401,University of Massachusettes,41.6309,71.0067
